@@ -1,12 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Taco das Estrelas</title>
-  </head>
-  <body>
-    <div id="game-container"></div>
-    <script type="module" src="./main.ts"></script>
-  </body>
+<html>
+     <head></head>
+<body>
+     <script>
+      function ativarGeolocalizacao(){
+        if (navigator.geolocation){
+          navigator.geolocation.watchPosition(
+            function (position){
+              texto.innerHTML = position.coords.latitude + ", " +position.coords.longitude;
+            }
+          )
+        }
+      }
+      
+     </script>
+
+
+
+     <button id="botao"
+     onclick= "ativarGeolocalizacao()"
+     >
+      Geolocalizar!</button>
+    <br />
+    <text id="texto"></text>
+
+     <body>
 </html>
