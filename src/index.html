@@ -1,27 +1,9 @@
 <html>
-     <head></head>
-<body>
-     <script>
-      function ativarGeolocalizacao(){
-        if (navigator.geolocation){
-          navigator.geolocation.watchPosition(
-            function (position){
-              texto.innerHTML = position.coords.latitude + ", " +position.coords.longitude;
-            }
-          )
-        }
-      }
-      
-     </script>
-
-
-
-     <button id="botao"
-     onclick= "ativarGeolocalizacao()"
-     >
-      Geolocalizar!</button>
-    <br />
-    <text id="texto"></text>
-
-     <body>
+  <head>
+    <title>taco-nas-estrelas</title>
+  </head>
+  <body>
+    <div id="game-container"></div>
+    <script type="module" src="./main.ts"></script>
+  </body>
 </html>
