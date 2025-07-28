@@ -57,8 +57,45 @@ Debuff do beck gigante:
 Efeito de taco:
 Taco policial, taco do spock, taco do beck gigante, taco do policial, taco do arthur.
 
-Fonte de receita: compra de tacos dentro jogo, compra de buffs permanentes exclusivos dentro do jogo
 Efeito de bola:
 taco caça fantasma, taco do beck gigante, taco ak-47
 
+Fonte de receita: compra de tacos dentro jogo, compra de buffs permanentes exclusivos dentro do jogo
+
 Referências: Devil may cry 3, Star trek, baianinho, policía federal do rio de janeiro, drogas, álcool, bar da minha rua, exército militar, institutos federais/universidades, pokemon, caça-fantasmas.
+
+Cena 1-- Personagem vai ao bar jogar sinuca
+
+cena 2-- personagem fica bêbado e começa a apostar
+
+cena 3-- aposta a casa e perde para o baianinho
+
+cena 4-- personagem acorda no dia seguinte sem grana, sem casa e sem memória
+
+cena 5-- personagem decide que vai reencontrar o Baianinho e recuperar o que perdeu
+
+cena 6- personagem vai a vários bares diferentes (jogador precisa ir somente a um bar em vez de vários para ativar a próxima cena)
+
+cena 8-- personagem quebra o taco e encontra baianinho
+
+cena 9-- personagem com taco novo (pode ocorrer várias cenas "9" antes da cena "10", depende da escolha do jogador) (dependendo de onde conseguiu, lista com possibilidades abaixo)
+cena com novo taco elétrico
+cena com novo "taco" ak-47
+cena com novo "taco" cassetete
+cena com novo taco do spock
+cena com novo taco fantasma
+
+cena 10-- personagem vai a favela do rio e encontra um maconheiro
+
+cena 11-- personagem com dinheiro suficiente e um novo taco
+
+cena 12-- personagem entra no torneio
+
+cena 13-- cena do sorteio dos adversários
+
+cena 14-- um dos três abaixo:
+cena virando um mendigo com um beck gigante se perder
+cena virando clt 7x0 se perder
+cena recuperando a casa, honra e dinheiro
+
+cena 15-- personagens vão a um bar jogar sinuca (quando for multiplayer)
