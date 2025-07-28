@@ -57,6 +57,7 @@ Debuff do beck gigante:
 Efeito de taco:
 Taco policial, taco do spock, taco do beck gigante, taco do policial, taco do arthur.
 
+Fonte de receita: compra de tacos dentro jogo, compra de buffs permanentes exclusivos dentro do jogo
 Efeito de bola:
 taco caça fantasma, taco do beck gigante, taco ak-47
 
